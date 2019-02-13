@@ -1,4 +1,4 @@
 use employees;
 SELECT* 
 FROM salaries
-WHERE salary>60000
+WHERE salary>50000
